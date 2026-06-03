@@ -19,7 +19,7 @@ What this repo *is*, is a transparent case study: how we built it, what we used,
 
 **PhysX Escape** is a **2D escape room-style physics puzzler** that runs entirely in the browser — no download, no install, just a link.
 
-Visually inspired by **Pokémon FireRed** (the aesthetic, the character sprite style, the top-down pixel feel), the game places you in a **Principle Hall** that connects to **5 distinct physics-themed rooms**. To escape each room, you solve a physics quiz. Clear all five, and the game concludes.
+Visually inspired by **Pokémon FireRed** (the aesthetic, the character sprite style, the top-down pixel feel), the game places you in a **Principal Hall** that connects to **5 distinct physics-themed rooms**. To escape each room, you solve a physics quiz. Clear all five, and the game concludes.
 
 ### Core Loop
 ```
