@@ -30,7 +30,7 @@ The storyline — which we're genuinely proud of — tied all of this together t
 
 ---
 
-## 🧑‍💻 The Team
+## 🧑‍💻 The Team (A trio)
 
 | Person | Role (in theory) | Role (in reality) |
 |--------|-----------------|-------------------|
