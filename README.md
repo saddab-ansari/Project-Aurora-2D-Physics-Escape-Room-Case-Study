@@ -9,7 +9,7 @@
 
 This repository contains **no source code**.
 
-The full game — including all assets, gameplay logic, and storyline — is protected under an **IP agreement signed with Zensar Technology** following the hackathon. Out of respect for that agreement, nothing proprietary is published here.
+The full game — including all assets, gameplay logic, and storyline — is protected under an **IP agreement signed with Zensar Technology** following the hackathon hosted at MMCOE. Out of respect for that agreement, nothing proprietary is published here.
 
 What this repo *is*, is a transparent case study: how we built it, what we used, what worked, what didn't, and what we learned in 24 hours.
 
