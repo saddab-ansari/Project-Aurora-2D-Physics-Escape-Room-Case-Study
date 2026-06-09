@@ -49,7 +49,7 @@ We went into the hackathon knowing none of us had hands-on experience with any g
 Instead, the stack looked like this:
 
 ### 🎨 Visual Generation
-- **Google Gemini Pro** → Room backgrounds and environment visuals
+- **Google Gemini Pro** → Room backgrounds and environment visuals. As well as Sprite for our main character.
 - **ChatGPT** → Additional background generation and iteration
 - Character design was hand-crafted in the **Pokémon FireRed** sprite style
 
