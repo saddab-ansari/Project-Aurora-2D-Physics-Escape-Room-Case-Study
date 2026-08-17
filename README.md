@@ -34,9 +34,9 @@ The storyline — which we're genuinely proud of — tied all of this together t
 
 | Person | Role (in theory) | Role (in reality) |
 |--------|-----------------|-------------------|
-| **Me** | Lead Dev | Everything that needed to be done |
+| **Saddab** | Lead Dev | Everything that needed to be done |
 | **Ankit** | Dev | Everything that needed to be done |
-| **ID** | Assets | Sound effects & background music |
+| **Ishan** | Assets | Sound effects & background music |
 
 Honest note: this wasn't a clean division of labor. Ankit and I were both heads-down across design, logic, integration, and bug-fixing simultaneously. ID sourced the audio, which mattered more than we expected — sound design added a lot to the atmosphere.
 
